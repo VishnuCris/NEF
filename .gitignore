@@ -1,0 +1,5 @@
+node_modules
+NEF_VE
+.env
+__pycache__
+.next
